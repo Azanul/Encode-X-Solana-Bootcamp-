@@ -1,5 +1,6 @@
 {
     "rust-analyzer.linkedProjects": [
-        "./fizzbuzz/Cargo.toml"
+        "./fizzbuzz/Cargo.toml",
+        "./SolanaBootcamp/homeworks_rust/Cargo.toml"
     ]
 }
